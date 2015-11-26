@@ -1,9 +1,9 @@
 +++
 tags = [ "fast", "embeddable", "interpreted", "procedural" ]
 categories = [ "Applications" ]
-date = "2015-11-09T09:40:47-05:00"
+date = "2015-11-25T21:47:48-05:00"
 description = "Lua, a small, fast scripting language"
-draft = true
+draft = false
 title = "Lua"
 
 +++

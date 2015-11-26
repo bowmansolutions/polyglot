@@ -1,9 +1,9 @@
 +++
 tags = [ "fast", "managed", "compiled", "thread-safe" ]
 categories = [ "Systems" ]
-date = "2015-11-09T09:40:47-05:00"
+date = "2015-11-25T21:48:13-05:00"
 description = "Rust, a low-level compiled systems programming language aiming to be fast and safe"
-draft = true
+draft = false
 title = "Rust"
 
 +++
