@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polyglot</title>
-    <link>http://bowmansolutions.github.io/polyglot/</link>
+    <link>https://bowmansolutions.com/polyglot/</link>
     <description>Recent content on Polyglot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 21:48:13 -0500</lastBuildDate>
-    <atom:link href="http://bowmansolutions.github.io/polyglot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bowmansolutions.com/polyglot/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rust</title>
-      <link>http://bowmansolutions.github.io/polyglot/curious/rust/</link>
+      <link>https://bowmansolutions.com/polyglot/curious/rust/</link>
       <pubDate>Wed, 25 Nov 2015 21:48:13 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/curious/rust/</guid>
+      <guid>https://bowmansolutions.com/polyglot/curious/rust/</guid>
       <description>&lt;p&gt;From &lt;a href=&#34;https://doc.rust-lang.org/stable/book/&#34;&gt;the Rust book&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Visual Basic</title>
-      <link>http://bowmansolutions.github.io/polyglot/avoid/visualbasic/</link>
+      <link>https://bowmansolutions.com/polyglot/avoid/visualbasic/</link>
       <pubDate>Wed, 25 Nov 2015 21:48:05 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/avoid/visualbasic/</guid>
+      <guid>https://bowmansolutions.com/polyglot/avoid/visualbasic/</guid>
       <description>&lt;p&gt;I am just not sure that &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/2x7h1hfk.aspx&#34;&gt;Visual Basic&lt;/a&gt; is for me. I am probably judging too quickly, though; at one time, it was an extremely popular language.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://programmers.stackexchange.com/users/5095/jon-hopkins&#34;&gt;&amp;ldquo;Jon Hopkins&amp;rdquo;&lt;/a&gt; articulates well some positives and negatives regarding Visual Basic in an &lt;a href=&#34;http://programmers.stackexchange.com/questions/18282/why-do-people-say-that-vb-gives-you-bad-programming-habits#18319&#34;&gt;answer on StackExchange&lt;/a&gt;:&lt;/p&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Python</title>
-      <link>http://bowmansolutions.github.io/polyglot/like/python/</link>
+      <link>https://bowmansolutions.com/polyglot/like/python/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:52 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/like/python/</guid>
+      <guid>https://bowmansolutions.com/polyglot/like/python/</guid>
       <description>&lt;p&gt;&amp;ldquo;Please, this is supposed to be a happy occasion. Let&amp;rsquo;s not bicker and argue over&amp;hellip;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.python.org/doc/essays/blurb/&#34;&gt;What is Python?&lt;/a&gt;&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Lua</title>
-      <link>http://bowmansolutions.github.io/polyglot/like/lua/</link>
+      <link>https://bowmansolutions.com/polyglot/like/lua/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:48 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/like/lua/</guid>
+      <guid>https://bowmansolutions.com/polyglot/like/lua/</guid>
       <description>&lt;p&gt;From &lt;a href=&#34;http://www.lua.org/about.html&#34;&gt;the Lua &amp;ldquo;about&amp;rdquo; page&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -87,10 +87,10 @@
     
     <item>
       <title>Elm</title>
-      <link>http://bowmansolutions.github.io/polyglot/curious/elm/</link>
+      <link>https://bowmansolutions.com/polyglot/curious/elm/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:17 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/curious/elm/</guid>
+      <guid>https://bowmansolutions.com/polyglot/curious/elm/</guid>
       <description>&lt;p&gt;&amp;ldquo;Elm aims to make web development more pleasant. Elm is a type inferred, functional reactive language that compiles to HTML, CSS, and JavaScript.&amp;rdquo; &amp;ndash; from &lt;a href=&#34;https://github.com/elm-lang/elm-compiler&#34;&gt;the elm-compiler Github repo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Is it a new functional language, a Javascript library, or somebody&amp;rsquo;s trendy computer science project? Worth investigating&amp;hellip;&lt;/p&gt;
@@ -99,20 +99,20 @@
     
     <item>
       <title>go</title>
-      <link>http://bowmansolutions.github.io/polyglot/like/go/</link>
+      <link>https://bowmansolutions.com/polyglot/like/go/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:11 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/like/go/</guid>
+      <guid>https://bowmansolutions.com/polyglot/like/go/</guid>
       <description>&lt;p&gt;I started using &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; with free web application services such as &lt;a href=&#34;https://cloud.google.com/appengine/&#34;&gt;Google App Engine&lt;/a&gt; and &lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;. My reason for choosing it was due to performance, combined with ease of coding. It is high level enough, while still being a compiled, high performance language. This, then, saves on resources, and saves money.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cobol</title>
-      <link>http://bowmansolutions.github.io/polyglot/avoid/cobol/</link>
+      <link>https://bowmansolutions.com/polyglot/avoid/cobol/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:07 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/avoid/cobol/</guid>
+      <guid>https://bowmansolutions.com/polyglot/avoid/cobol/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-cobol&#34;&gt;IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
 * (Does it feel like your computer
