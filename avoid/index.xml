@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avoid on Polyglot</title>
-    <link>http://bowmansolutions.github.io/polyglot/avoid/</link>
+    <link>https://bowmansolutions.com/polyglot/avoid/</link>
     <description>Recent content in Avoid on Polyglot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 21:48:05 -0500</lastBuildDate>
-    <atom:link href="http://bowmansolutions.github.io/polyglot/avoid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bowmansolutions.com/polyglot/avoid/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Visual Basic</title>
-      <link>http://bowmansolutions.github.io/polyglot/avoid/visualbasic/</link>
+      <link>https://bowmansolutions.com/polyglot/avoid/visualbasic/</link>
       <pubDate>Wed, 25 Nov 2015 21:48:05 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/avoid/visualbasic/</guid>
+      <guid>https://bowmansolutions.com/polyglot/avoid/visualbasic/</guid>
       <description>&lt;p&gt;I am just not sure that &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/2x7h1hfk.aspx&#34;&gt;Visual Basic&lt;/a&gt; is for me. I am probably judging too quickly, though; at one time, it was an extremely popular language.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://programmers.stackexchange.com/users/5095/jon-hopkins&#34;&gt;&amp;ldquo;Jon Hopkins&amp;rdquo;&lt;/a&gt; articulates well some positives and negatives regarding Visual Basic in an &lt;a href=&#34;http://programmers.stackexchange.com/questions/18282/why-do-people-say-that-vb-gives-you-bad-programming-habits#18319&#34;&gt;answer on StackExchange&lt;/a&gt;:&lt;/p&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>Cobol</title>
-      <link>http://bowmansolutions.github.io/polyglot/avoid/cobol/</link>
+      <link>https://bowmansolutions.com/polyglot/avoid/cobol/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:07 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/avoid/cobol/</guid>
+      <guid>https://bowmansolutions.com/polyglot/avoid/cobol/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-cobol&#34;&gt;IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
 * (Does it feel like your computer

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curious on Polyglot</title>
-    <link>http://bowmansolutions.github.io/polyglot/curious/</link>
+    <link>https://bowmansolutions.com/polyglot/curious/</link>
     <description>Recent content in Curious on Polyglot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Nov 2015 21:48:13 -0500</lastBuildDate>
-    <atom:link href="http://bowmansolutions.github.io/polyglot/curious/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bowmansolutions.com/polyglot/curious/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rust</title>
-      <link>http://bowmansolutions.github.io/polyglot/curious/rust/</link>
+      <link>https://bowmansolutions.com/polyglot/curious/rust/</link>
       <pubDate>Wed, 25 Nov 2015 21:48:13 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/curious/rust/</guid>
+      <guid>https://bowmansolutions.com/polyglot/curious/rust/</guid>
       <description>&lt;p&gt;From &lt;a href=&#34;https://doc.rust-lang.org/stable/book/&#34;&gt;the Rust book&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Elm</title>
-      <link>http://bowmansolutions.github.io/polyglot/curious/elm/</link>
+      <link>https://bowmansolutions.com/polyglot/curious/elm/</link>
       <pubDate>Wed, 25 Nov 2015 21:47:17 -0500</pubDate>
       
-      <guid>http://bowmansolutions.github.io/polyglot/curious/elm/</guid>
+      <guid>https://bowmansolutions.com/polyglot/curious/elm/</guid>
       <description>&lt;p&gt;&amp;ldquo;Elm aims to make web development more pleasant. Elm is a type inferred, functional reactive language that compiles to HTML, CSS, and JavaScript.&amp;rdquo; &amp;ndash; from &lt;a href=&#34;https://github.com/elm-lang/elm-compiler&#34;&gt;the elm-compiler Github repo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Is it a new functional language, a Javascript library, or somebody&amp;rsquo;s trendy computer science project? Worth investigating&amp;hellip;&lt;/p&gt;
