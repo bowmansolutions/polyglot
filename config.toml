@@ -1,4 +1,4 @@
-baseurl = "http://bowmansolutions.github.io/polyglot"
+baseurl = "https://bowmansolutions.com/polyglot/"
 languageCode = "en-us"
 title = "Polyglot"
 pluralizeListTitles = false
