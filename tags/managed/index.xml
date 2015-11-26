@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Managed on Polyglot</title>
+    <link>http://bowmansolutions.github.io/polyglot/tags/managed/</link>
+    <description>Recent content in Managed on Polyglot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2015 21:48:13 -0500</lastBuildDate>
+    <atom:link href="http://bowmansolutions.github.io/polyglot/tags/managed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rust</title>
+      <link>http://bowmansolutions.github.io/polyglot/curious/rust/</link>
+      <pubDate>Wed, 25 Nov 2015 21:48:13 -0500</pubDate>
+      
+      <guid>http://bowmansolutions.github.io/polyglot/curious/rust/</guid>
+      <description>&lt;p&gt;From &lt;a href=&#34;https://doc.rust-lang.org/stable/book/&#34;&gt;the Rust book&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without having a garbage collector, making it a useful language for a number of use cases other languages aren’t good at: embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems. It improves on current languages targeting this space by having a number of compile-time safety checks that produce no runtime overhead, while eliminating all data races. Rust also aims to achieve ‘zero-cost abstractions’ even though some of these abstractions feel like those of a high-level language. Even then, Rust still allows precise control like a low-level language would.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

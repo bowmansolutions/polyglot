@@ -1,7 +1,0 @@
-{{ partial "header.html" . }}
-<ul>
-{{ range $section, $pages := .Site.Sections }}
-<li><a href="{{ $.Site.BaseURL }}{{ $section }}">{{ title $section }}</a></li>
-{{ end }}
-</ul>
-{{ partial "footer.html" . }}

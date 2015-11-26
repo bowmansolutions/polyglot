@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpreted on Polyglot</title>
+    <link>http://bowmansolutions.github.io/polyglot/tags/interpreted/</link>
+    <description>Recent content in Interpreted on Polyglot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2015 21:47:48 -0500</lastBuildDate>
+    <atom:link href="http://bowmansolutions.github.io/polyglot/tags/interpreted/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lua</title>
+      <link>http://bowmansolutions.github.io/polyglot/like/lua/</link>
+      <pubDate>Wed, 25 Nov 2015 21:47:48 -0500</pubDate>
+      
+      <guid>http://bowmansolutions.github.io/polyglot/like/lua/</guid>
+      <description>&lt;p&gt;From &lt;a href=&#34;http://www.lua.org/about.html&#34;&gt;the Lua &amp;ldquo;about&amp;rdquo; page&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lua is a powerful, fast, lightweight, embeddable scripting language.&lt;/p&gt;
+
+&lt;p&gt;Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
